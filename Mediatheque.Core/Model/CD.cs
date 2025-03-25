@@ -7,7 +7,7 @@
         public string Titre { get; set; }
 
 
-        public CD(string titreDeLObjet, string groupe) : base(titreDeLObjet , "Null")
+        public CD(string titreDeLObjet, string groupe) : base(titreDeLObjet , "Aucun")
         {
             this.Titre = titreDeLObjet ;
             this.Groupe = groupe ;
