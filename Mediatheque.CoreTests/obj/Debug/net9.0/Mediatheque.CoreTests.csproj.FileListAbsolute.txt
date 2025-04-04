@@ -116,3 +116,4 @@
 /Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.CoreTests/obj/Debug/net9.0/Mediatheque.CoreTests.pdb
 /Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.CoreTests/obj/Debug/net9.0/Mediatheque.CoreTests.genruntimeconfig.cache
 /Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.CoreTests/obj/Debug/net9.0/ref/Mediatheque.CoreTests.dll
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.CoreTests/obj/Debug/net9.0/Mediatheque.CoreTests.sourcelink.json

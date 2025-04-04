@@ -21,5 +21,11 @@ namespace Mediatheque.Core.Service
         {
             return _fondDeCommerce.Count;
         }
+
+        public string GetListAllCD()
+        {
+            int count = _fondDeCommerce.Count(o => o is CD);
+            return count > 0 ? $"Il y a {count} CD(s)" : "Il n'y a pas de CD";
+        }
     }
 }

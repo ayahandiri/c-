@@ -9,3 +9,4 @@
 /Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/refint/Mediatheque.Core.dll
 /Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.pdb
 /Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/ref/Mediatheque.Core.dll
+/Users/rajirahoui/Desktop/c#/MediathequeSolution/Mediatheque.Core/obj/Debug/net9.0/Mediatheque.Core.sourcelink.json
